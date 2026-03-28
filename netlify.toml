@@ -1,6 +1,3 @@
-language: javascript
-version: 18
-
 [build]
 command = "npm run build"
 publish = "dist"
